@@ -1,0 +1,16 @@
+C:\Users\leenovoz510\Documents\SharpDevelop Projects\MemoryMetro\MemoryMetro\obj\Debug\MemoryMetro.csprojResolveAssemblyReference.cache
+C:\Users\leenovoz510\Documents\SharpDevelop Projects\MemoryMetro\MemoryMetro\obj\Debug\MemoryMetro.MainForm.resources
+C:\Users\leenovoz510\Documents\SharpDevelop Projects\MemoryMetro\MemoryMetro\obj\Debug\MemoryMetro.csproj.GenerateResource.Cache
+C:\Users\leenovoz510\Documents\SharpDevelop Projects\MemoryMetro\MemoryMetro\bin\Debug\MemoryMetro.exe
+C:\Users\leenovoz510\Documents\SharpDevelop Projects\MemoryMetro\MemoryMetro\bin\Debug\MemoryMetro.pdb
+C:\Users\leenovoz510\Documents\SharpDevelop Projects\MemoryMetro\MemoryMetro\bin\Debug\MetroFramework.dll
+C:\Users\leenovoz510\Documents\SharpDevelop Projects\MemoryMetro\MemoryMetro\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\leenovoz510\Documents\SharpDevelop Projects\MemoryMetro\MemoryMetro\obj\Debug\MemoryMetro.exe
+C:\Users\leenovoz510\Documents\SharpDevelop Projects\MemoryMetro\MemoryMetro\obj\Debug\MemoryMetro.pdb
+D:\3rd Comp\2nd Term\OS\MemoryMetro\MemoryMetro\bin\Debug\MemoryMetro.exe
+D:\3rd Comp\2nd Term\OS\MemoryMetro\MemoryMetro\bin\Debug\MemoryMetro.pdb
+D:\3rd Comp\2nd Term\OS\MemoryMetro\MemoryMetro\obj\Debug\MemoryMetro.csprojResolveAssemblyReference.cache
+D:\3rd Comp\2nd Term\OS\MemoryMetro\MemoryMetro\obj\Debug\MemoryMetro.MainForm.resources
+D:\3rd Comp\2nd Term\OS\MemoryMetro\MemoryMetro\obj\Debug\MemoryMetro.csproj.GenerateResource.Cache
+D:\3rd Comp\2nd Term\OS\MemoryMetro\MemoryMetro\obj\Debug\MemoryMetro.exe
+D:\3rd Comp\2nd Term\OS\MemoryMetro\MemoryMetro\obj\Debug\MemoryMetro.pdb
